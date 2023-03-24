@@ -29,7 +29,7 @@
     **[XAMPP](https://www.apachefriends.org/pt_br/download.html)**
 
  
-2. Abra o painel de controle do do XAMPP e inicie os serviços **apache** e **mysql**.
+2. Abra o painel de controle do XAMPP e inicie os serviços **apache** e **mysql**.
 
 
 3. Faça o download do projeto (https://github.com/Felipebchagas/teste-frontend-developer/archive/refs/heads/master.zip)
