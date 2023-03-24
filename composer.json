@@ -1,0 +1,16 @@
+{
+    "name": "felipe/ellos",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Classes\\": "config/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felipebchagas",
+            "email": "felipe.barbosacl@gmail.com"
+        }
+    ],
+    "require": {}
+}
